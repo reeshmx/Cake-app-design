@@ -16,16 +16,16 @@ Key Features
 
 Cake Flavors
 - **Blueberry**
-![Blueberry](Delightcakes/Blueberry.jpg)
+![Blueberry](Blueberry.jpg)
 
 - **Mango**
-![Mango](Delightcakes/Mango.jpg)
+![Mango](Mango.jpg)
 
 - **Chocolate**
-![Chocolate](Delightcakes/chocolate.jpg)
+![Chocolate](Chocolate.jpg)
 
 - **Strawberry**
-![Strawberry](Delightcakes/strawberry.jpg)
+![Strawberry](Strawberry.jpg)
 
 
 
