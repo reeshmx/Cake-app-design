@@ -10,7 +10,7 @@ Key Features
 - Prototype flow for selecting and ordering  
 
 🔗 Live Figma Prototype
-[👉 View my Figma Design](https://www.figma.com/design/7q7Hr6eyf9BKbio6ehu55v/Desktop-UI?node-id=0-1&t=3eL2w6AgUIu6mU9B-1)
+[👉 View my Figma Design](https://www.figma.com/design/7q7Hr6eyf9BKbio6ehu55v/Desktop-UI?node-id=48-90&t=3eL2w6AgUIu6mU9B-1)
 
 📸 Screenshots
 
